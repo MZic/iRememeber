@@ -63,7 +63,7 @@ import android.os.ParcelFileDescriptor;
 import android.os.RemoteException;
 import edu.vuum.mocca.provider.MoocSchema;
 
-/**
+/**test
  * encapsulation of the ContentResolver for a single URI
  * <p>
  * Uses ContentResolver instead of ContentProviderClient or other mechanism to
